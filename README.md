@@ -7,9 +7,13 @@ Features
 Four colorful squares representing different colors.
 Selection of a square changes the background color of the webpage accordingly.
 Easy-to-use interface for seamless interaction.
+
+
 Usage
 Open the project in a web browser.
 Click on one of the four squares to change the background color of the webpage.
+
+
 Technologies Used
 HTML
 CSS
